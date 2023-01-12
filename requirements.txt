@@ -28,3 +28,4 @@ ipython>=7.12,<9
 
 # Country data
 pycountry
+certifi>=2022.12.7 # not directly required, pinned by Snyk to avoid a vulnerability
